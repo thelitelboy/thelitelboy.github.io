@@ -4,5 +4,3 @@
 
 layout: home
 ---
-
-title: Imanol Saenz
