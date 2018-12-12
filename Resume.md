@@ -49,7 +49,7 @@ Graduated: 2018
 ### Graphical API
 * OPENGL 3.X
 
-### Comercial Engines
+### Commercial Engines
 * Unity
 * Unreal Engine 4
 
