@@ -25,9 +25,10 @@ We make use of OpenGL queries to use the occlusion culling. If any object to ren
 
 ### Physically based rendering (PBR)
 
-One of the elements that I am most proud of in this engine is the PBR. This means trying to render materials according to their physical properties.
+One of the elements that I am most proud of in this engine is the PBR. This means trying to render materials according to their physical properties. It was really hard to learn what it was exactly and understand what the code was doing, because the Rendering Equation is quite heavy and I did not want to just copy paste and see it work.
 
-![PBR][PE-PBR] 
+![PBR][PE-PBR]
+
 ![Material][PE-Material]
 
 ### External Libraries
@@ -44,15 +45,23 @@ A physics library. Really interesting how it works with a private "world" where 
 
   * [GitHub][PE-Bullet-Github]
 
+### References to learn how to work with OpenGL
+* [LearnOpenGL][PE-LearnOpenGL]
+* [OpenGL Tutorials][PE-OpenGLTutorials]
+
+
 
 [ESAT-Link]: http://www.esat.es
 [XAVI-Link]: https://www.linkedin.com/in/xavier-rebasa-moll-b5723715b/
 [PE-ViewPort]: https://raw.githubusercontent.com/thelitelboy/thelitelboy.github.io/master/_assets/3DEngine-Viewport.png
 [PE-Shadows]: https://raw.githubusercontent.com/thelitelboy/thelitelboy.github.io/master/_assets/3DEngine-Shadows.png
 
-[PE-PBR]: /_assets/pbr.png
-[PE-Material]: Material.png
+[PE-PBR]: https://raw.githubusercontent.com/thelitelboy/thelitelboy.github.io/master//_assets/pbr.png
+[PE-Material]: https://raw.githubusercontent.com/thelitelboy/thelitelboy.github.io/master/_assets/Material.png
 
 [PE-ImGui]: https://raw.githubusercontent.com/thelitelboy/thelitelboy.github.io/master/_assets/ImGui.png
 [PE-ImGui-Github]: http://www.github.com/ocornut/imgui
-[Pe-Bullet-Github]: https://github.com/bulletphysics/bullet3
+[PE-Bullet-Github]: https://github.com/bulletphysics/bullet3
+
+[PE-LearnOpenGL]: https://learnopengl.com/
+[PE-OpenGLTutorials]: http://www.opengl-tutorial.org/
