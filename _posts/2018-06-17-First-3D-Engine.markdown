@@ -1,0 +1,52 @@
+---
+layout: post
+title:  "First 3D Engine"
+date:   2018-06-17 18:29:09 +0000
+categories: 
+---
+
+This is the first 3D Game engine I have done, written in C++, multithread and using OpenGL. It has been developed by [Xavier Rebasa Moll][XAVI-Link] and me in our last year on [ESAT][ESAT-Link].
+
+# Rendering
+
+We use a forward rendering to render the scene. Each object is added to a list if it has to be rendered and at the end of the frame, each object of the list will be rendered directly.
+
+![Viewport][PE-ViewPort]
+
+### Lighting and Shadows
+
+Our engine can process up to 64 point lights, 32 spot lights and 8 directional lights. Only directional lights cast shadows. Each one generates a depth texture from the position and orientation of the node holding the point light, then sends that information as a texture2D to the shader to render shadows. 
+
+![Shadows][PE-Shadows]
+
+### Occlusion Culling
+
+We make use of OpenGL queries to use the occlusion culling. If any object to render has at least one visible pixel it will be rendered, else it will be ignored. 
+
+### External Libraries
+
+* #### ImGui
+A User Interface library. Really usefull and easy to use. This is not the first time I have worked with this library, It gives really good results in the projects for debuging purposes.
+
+  * [GitHub][PE-ImGui-Github]
+
+<center>
+
+![ImGui][PE-ImGui] 
+
+</center>
+
+* #### Bullet
+A physics library. Really interesting how it works with a private "world" where everything is calculated in another thread and it's your job to synchronize it with your world.
+
+  * [GitHub][PE-Bullet-Github]
+
+
+[ESAT-Link]: http://www.esat.es
+[XAVI-Link]: https://www.linkedin.com/in/xavier-rebasa-moll-b5723715b/
+[PE-ViewPort]: h
+[PE-Shadows]: h
+
+[PE-ImGui]: imguiimage "ImGui Image"
+[PE-ImGui-Github]: http://www.github.com/ocornut/imgui
+[Pe-Bullet-Github]: https://github.com/bulletphysics/bullet3
