@@ -5,6 +5,8 @@ date:   2018-11-17 18:29:09 +0000
 categories: 
 ---
 
+![DX11Animation][DX11-DX11Animation]
+
 ## Hierarchical Class
 
 A new class has been created to create the hierarchy, called Node. It has a secondary class Called SubNode which represents the bones of the hierarchy. Each Node contains a vector of SubNodes and a vector with the information of each SubNode parent. 
@@ -36,6 +38,6 @@ One of the main problems once the animation system is complete is the informatio
 
 Anyway, the animation processing is quite heavy to process so once many robots are using it the framerate falls. It could be more efficient if we save most of the Key Frames so we only have to read, not to calculate anything. But also this would have an enormous cost of memory.
 
-
-[DX11-Node]: ...
-[DX11-Animation]: ...
+[DX11-DX11Animation]: https://raw.githubusercontent.com/thelitelboy/thelitelboy.github.io/master/_assets/dx11animation.png
+[DX11-Node]: https://raw.githubusercontent.com/thelitelboy/thelitelboy.github.io/master/_assets/NodeDX11.png
+[DX11-Animation]: https://raw.githubusercontent.com/thelitelboy/thelitelboy.github.io/master/_assets/animation.png
