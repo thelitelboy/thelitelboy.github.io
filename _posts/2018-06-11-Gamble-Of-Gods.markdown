@@ -34,6 +34,11 @@ My main work in this project has been Gameplay Programming, but I have also work
   * Most part of the last Version
 * Dialogue System
 
+## Awards
+
+* Best Narrative. By Student Game Contest. Spanish Students Videogame Association, [AEV][AEV-Link].
+
 [ESAT-Link]: http://www.esat.es/
 [BERKLEE-Link]: https://valencia.berklee.edu/
 [STEAM-Link]: https://store.steampowered.com/app/912730/Gamble_of_Gods/
+[AEV-Link]: http://studentgamecontest.aev.org.es/
