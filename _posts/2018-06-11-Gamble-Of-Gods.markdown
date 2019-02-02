@@ -3,6 +3,8 @@ layout: post
 title:  "Gamble Of Gods"
 date:   2018-06-11 18:29:09 +0000
 categories: 
+description: My first big game published on Steam
+imageSRC: https://raw.githubusercontent.com/thelitelboy/thelitelboy.github.io/master/_assets/GOG.png
 ---
 
 Gamble of Gods is my last big project in [ESAT][ESAT-Link]. With a group of programmers, artists and musicians from [Berklee][BERKLEE-Link] we worked on one of our biggest projects till then for a year, and we were able to publish the game on [Steam][STEAM-Link] as a free to play. Developed in Unreal Engine 4.16

@@ -12,13 +12,13 @@ I am looking forward to work in the video games industry, to continue learning f
 ## My Job
 I have not been so much time in this industry to have many works but I am proud of my little achievements. My current work will be available on my **blog** soon.
 
-* New Physics Engine (Name still pending change)
-* My First 3D Engine
-* Gamble of Gods
-* Low-level Programming - Lens
-* Procedural City
-* Tower Defenders
-* Star Castle
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
 I am not particularly good at the graphics section, but I really like optimization, maths and physics. Anyway, I have practised in Graphics Programming, first with the **Procedural City**, my first attempts with OpenGL, and later with **My First 3D Engine**. Researching game-physics different implementations.
 

@@ -3,6 +3,8 @@ layout: post
 title:  "Kingdom Defenders"
 date:   2017-06-15 18:29:09 +0000
 categories:
+description: A tower defense style game made in Unity
+imageSRC: https://raw.githubusercontent.com/thelitelboy/thelitelboy.github.io/master/_assets/tower-defenders-game.png
 ---
 
 This is a small project we did for a subject, the idea was to release it on google play but we finally were not able to do so. Anyway, I am really happy with the result, it is a game produced in Unity3D. We had previously worked with Unity, but this was the first project of considerable size we made.

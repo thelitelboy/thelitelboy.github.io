@@ -3,6 +3,8 @@ layout: post
 title:  "First 3D Engine"
 date:   2018-06-17 18:29:09 +0000
 categories: 
+description: A 3D game engine using C++ and OpenGL
+imageSRC: https://raw.githubusercontent.com/thelitelboy/thelitelboy.github.io/master/_assets/3DEngine-Shadows.png
 ---
 
 This is the first 3D Game engine I have done, written in C++, multithread and using OpenGL. It has been developed by [Xavier Rebasa Moll][XAVI-Link] and me in our last year on [ESAT][ESAT-Link].
