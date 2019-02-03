@@ -4,8 +4,6 @@ title: Resume
 permalink: /resume/
 ---
 
-### Personal Blog
-
 ## Education
 
 Sheffield Hallam University

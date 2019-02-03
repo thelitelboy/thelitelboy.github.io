@@ -210,6 +210,7 @@
 
 .post-description{
   display: block;
+  color: $text-color;
   @include relative-font-size(0.9);
 }
 
@@ -218,7 +219,7 @@
   height: 350px;
 
   margin-right: 20px;
-  margin-top: 20px;
+  //margin-top: 5px;
 }
 
 .post-image-div{
@@ -231,8 +232,10 @@
 }
 
 .post-link-div{
-  width: 100%;
+  width: 90%;
   height: 110px;
+  float: left;
+  margin-left: 5px;
 }
 
 /**
