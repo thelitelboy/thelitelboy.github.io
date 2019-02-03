@@ -179,6 +179,8 @@
 .page-content {
   padding: $spacing-unit 0;
   flex: 1;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 .page-heading {
@@ -212,6 +214,7 @@
   display: block;
   color: $text-color;
   @include relative-font-size(0.9);
+  text-align: left;
 }
 
 .post-div{

@@ -11,7 +11,7 @@ My first "Big" application programmed in C. An updated clone of the 1980 videoga
 
 I have to say that the game is in Spanish because we had to do the project in that language, sorry for the inconvenience.
 
-Download [**Here**][SC-Download] ;) One advice, If you want to play it i would recommend to create a shortcut of the .exe to the desktop or any other place. The .exe file needs to be in the same folder as the "Fuentes" folder. If you open the .exe it will create three DAT files on the same folder (HighScore, Saves and Usuarios), so if they appear in your desktop now you know what they are.
+Download [**Here**][SC-Download] ;) One advice, If you want to play it I would recommend to create a shortcut of the .exe to the desktop or any other place. The .exe file needs to be in the same folder as the "Fuentes" folder. If you open the .exe it will create three DAT files on the same folder (HighScore, Saves and Usuarios), so if they appear in your desktop now you know what they are.
 
 ![Title Page IMG][SC-TitleImage]
 
