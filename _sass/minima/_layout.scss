@@ -218,11 +218,12 @@
 }
 
 .post-div{
+  position: relative;
   width: 250px;
   height: 350px;
 
   margin-right: 20px;
-  //margin-top: 5px;
+  transition: transform .2s;
 }
 
 .post-image-div{
@@ -232,6 +233,10 @@
 .post-image{
   width: 100%;
   height: 200px;
+}
+
+.post-div:hover{
+  transform: scale(1.1);
 }
 
 .post-link-div{

@@ -5,6 +5,7 @@ date:   2018-06-11 18:29:09 +0000
 categories: 
 description: My first big game published on Steam
 imageSRC: https://raw.githubusercontent.com/thelitelboy/thelitelboy.github.io/master/_assets/GOG.png
+tag: post
 ---
 
 Gamble of Gods is my last big project in [ESAT][ESAT-Link]. With a group of programmers, artists and musicians from [Berklee][BERKLEE-Link] we worked on one of our biggest projects till then for a year, and we were able to publish the game on [Steam][STEAM-Link] as a free to play. Developed in Unreal Engine 4.16
@@ -29,11 +30,9 @@ Although the two gods had worked out this plan together, they disagreed on only 
 My main work in this project has been Gameplay Programming, but I have also worked as a UI programmer and I discovered the fantastic world of Unreal Materials, which in the end are nothing more than mathematics.
 
 * Game Camera
-* Materials
-  * Post processing
+* Materials and Post processing
 * Abilities
 * User Interface and Menu
-  * Most part of the last Version
 * Dialogue System
 
 ## Awards

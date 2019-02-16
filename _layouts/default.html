@@ -8,9 +8,35 @@
     {%- include header.html -%}
 
     <main class="page-content" aria-label="Content">
+
+    {% if page.tag == 'homePage' %}
+      <!-- HOME PAGE -->
+      {% include home.html %}
+    {% endif %}
+
+    {% if page.tag == 'about' %}
+      <!-- About Me -->
       <div class="wrapper">
-        {{ content }}
+        {%- include about.html -%}
       </div>
+    {% endif %}
+
+    {% if page.tag == 'resume' %}
+      <!-- Resume -->
+      <div class="wrapper">
+        {%- include resume.html -%}
+      </div>
+    {% endif %}
+
+    {% if page.tag != 'about' %}
+      {% if page.tag != 'resume' %}
+        <!-- Post -->
+        <div class="wrapper">
+          {{ content }}
+        </div>
+      {% endif %}
+    {% endif %}
+
     </main>
 
     {%- include footer.html -%}

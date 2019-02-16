@@ -5,6 +5,7 @@ date:   2015-06-10 18:29:09 +0000
 categories: 
 description: A star castle game made in C
 imageSRC : https://raw.githubusercontent.com/thelitelboy/thelitelboy.github.io/master/_assets/Star-Castle-Title.png
+tag: post
 ---
 
 My first "Big" application programmed in C. An updated clone of the 1980 videogame, Star Castle. ([Wikipedia][SC-Wikipedia], [Youtube][SC-Youtube]). Although it has some error that another, I can not be but proud of my first video game :D

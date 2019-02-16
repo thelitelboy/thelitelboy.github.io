@@ -5,6 +5,7 @@ date:   2018-11-17 18:29:09 +0000
 categories: 
 description: Animation System using DX11 rendering
 imageSRC: https://raw.githubusercontent.com/thelitelboy/thelitelboy.github.io/master/_assets/dx11animation.png
+tag: post
 ---
 
 ![DX11Animation][DX11-DX11Animation]
