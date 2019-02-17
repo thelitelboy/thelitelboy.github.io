@@ -8,9 +8,9 @@ tag: about
 ## Who am I?
 My name is Imanol Saenz, I am a programmer interested in the computing world. HND in Computing and Systems Development at ESAT, Valencia, Spain. Currently working to get a BSc (Honours) at Sheffield Hallam University at Computer Science for Games.
 
-I am looking forward to work in the video games industry, to continue learning from people with experienceand passion for video games.
+I am looking forward to work in the video games industry, to continue learning from people with experience and passion for video games.
 
-I have programmed many games in many groups and I have also programmed a game engine, currently I am programming my second one. I also have a published game on steam as a free to play whichwon a bestnarrative award at Student Game Contest 2018.
+I have programmed many games in many groups and I have also programmed a game engine, currently I am programming my second one. I also have a published game on steam as a free to play whichwon a best narrative award at Student Game Contest 2018.
 
 I like participating in Game Jams, I think it’s a great way to learn new things as you are experimenting. My favourite type of games are those with a huge world where you can spend hours and hours doing whatever you want, following an story or not, for example Minecraft, Monster Hunter, The Elder Scrolls... But I am also a big fan of games with an interesting story to tell as Portal, Bioshock or Dishonored. 
 
