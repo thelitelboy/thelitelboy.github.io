@@ -1,2 +1,92 @@
 
+<div style="max-width: 400px; max-height: 400px; min-width: 100px; margin: auto; ">
+  <img src="https://raw.githubusercontent.com/thelitelboy/thelitelboy.github.io/master/_assets/photo.jpeg" style="width: 100%;height: 100%; mask-image: radial-gradient(ellipse 90% 100% at 50% 50%, black 45%, transparent 50%);" />
+</div>
+<br>
+<div class="container">
+
+  <div class="centerArea">
+
+    <div class="centered">
+      <ul style="list-style: none; margin-bottom: auto; width: 210px;">
+
+        <li><i class="fas fa-envelope"></i>
+          <a href="mailto:saenzag.imanol@gmail.com">Email</a></li>
+
+        <li><i class="fas fa-phone"></i>
+          <a href="tel:034 644407013">034 644 407 013</a></li>
+
+        <li><i class="fas fa-home"></i>
+          <a href="http://thelitelboy.github.io/">thelitelboy.github.io</a></li>
+
+      </ul>
+    </div>
+
+    <div class="centered">
+      <ul style="list-style: none; margin-bottom: auto; width: 150px;">
+
+        <li><i class="fab fa-github fa-lg"></i>
+          <a href="https://github.com/thelitelboy">GitHub</a></li>
+
+        <li><i class="fab fa-twitter"></i>
+          <a href="https://twitter.com/The_LitelBoy">The_Litelboy</a></li>
+
+        <li><i class="fab fa-linkedin"></i>
+          <a href="https://www.linkedin.com/in/imanol-saenz-aguirre-b5a614167/">Imanol Saenz</a></li>
+
+
+      </ul>
+    </div>
+    <div class="centered" style="width: 150px;">
+      <ul style="list-style: none; margin-bottom: auto;">
+        <li><i class="fab fa-steam"></i>
+          <a href="https://steamcommunity.com/id/litelboy/">Litelboy</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+<br>
+
+<style type="text/css">
+  
+  .container{
+    width: 60%;
+    min-width: 250px; 
+    border: 3px solid #812432; 
+    border-radius: 10px; 
+    vertical-align: middle; 
+    margin: auto; 
+    position: relative;
+  }
+
+  .centerArea{
+    position: relative;
+    vertical-align: middle;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 200px);
+
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+
+  @media only screen and (max-width: 1075px) {
+    .centerArea {
+      //margin-left: 100px;
+      //margin-right: 100px;
+    }
+  }
+
+  .center-area:before {
+    content: '';
+    vertical-align: middle;
+    height: 100%;
+  }
+
+  .centered {
+    width: 210px;
+    vertical-align: middle;
+  }
+
+</style>
+
 {{ content }}
