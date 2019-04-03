@@ -5,11 +5,13 @@ permalink: /resume/
 tag: resume
 ---
 
-I'm a young programmer desiring to learn more about the video game programming world and to improve my skills. Interested on physics and gameplay programming. Experienced using C++, Unity and Unreal. 
+<h3><a href="">PDF</a></h3>
+
+I’m a young programmer desiring to learn more about the video game programming world and to improve my skills. Interested in physics and gameplay programming. Experienced using C++, Unity and Unreal.
 
 I am looking forward to work in the video games industry, to continue learning from people with experience and passion for video games.
 
-I like participating in Game Jams, I think it’s a great way to learn new things as you are experimenting. My favourite type of games are those with a huge world where you can spend hours and hours doing whatever you want, following an story or not, for example Minecraft, Monster Hunter, The Elder Scrolls… But I am also a big fan of games with an interesting story to tell as Portal, Bioshock or Dishonored.
+I like participating in Game Jams, I think it’s a great way to learn new things as you are experimenting. My favourite type of games is those with a huge world where you can spend hours and hours doing whatever you want, following a story or not, for example, Minecraft, Monster Hunter, The Elder Scrolls… But I am also a big fan of games with an interesting story to tell as Portal, Bioshock or Dishonored.
 
 ## **Interests**
 
@@ -74,7 +76,7 @@ I like participating in Game Jams, I think it’s a great way to learn new thing
 
 * **ESAT (Escuela Superior de Arte y Tecnología)**
   * Valencia, Spain
-  * BTEc Level 5 HND in Computing And Systems Develpment
+  * BTEc Level 5 HND in Computing And Systems Development
   * Graduated: 2018
 
 ## **Languages**
@@ -125,8 +127,8 @@ I like participating in Game Jams, I think it’s a great way to learn new thing
 * Unreal Engine 4
 
 ## Personal Aptitudes
-* TeamWork
-* Researching / self learning
+* Teamwork
+* Researching / self-learning
 
 ## Awards
 
