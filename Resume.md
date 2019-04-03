@@ -5,7 +5,7 @@ permalink: /resume/
 tag: resume
 ---
 
-<h3><a href="https://github.com/thelitelboy/thelitelboy.github.io/blob/master/_documents/Resume.pdf" download="">PDF</a></h3>
+<h3><a href="../_documents/Resume.pdf" download="">PDF</a></h3>
 
 I’m a young programmer desiring to learn more about the video game programming world and to improve my skills. Interested in physics and gameplay programming. Experienced using C++, Unity and Unreal.
 
