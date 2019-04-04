@@ -8,6 +8,12 @@ imageSRC: https://raw.githubusercontent.com/thelitelboy/thelitelboy.github.io/ma
 tag: post
 ---
 
+### Details
+* C++
+* Windows
+* DirectX11
+* State machines
+
 ![DX11Animation][DX11-DX11Animation]
 
 ## Hierarchical Class

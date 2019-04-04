@@ -8,6 +8,30 @@ imageSRC: https://raw.githubusercontent.com/thelitelboy/thelitelboy.github.io/ma
 tag: post
 ---
 
+### Details
+<div style="display: inline-block; margin-right: 20px;">
+  <div style="display: inline-block;">
+    <ul>
+      <li>C++</li>
+      <li>Windows</li>
+      <li>OpenGL 3.X</li>
+      <li>GLFW</li>
+      <li>Forward Rendering</li>
+    </ul>
+  </div>
+  <div style="display: inline-block; vertical-align: top;">
+    <ul>
+      <li>Oclussion Culling</li>
+      <li>Lightning</li>
+      <li>PBR</li>
+      <li>Bullet</li>
+      <li>ImGui</li>
+    </ul>
+  </div>
+</div>
+<br>
+
+
 This is the first 3D Game engine I have done, written in C++, multithread and using OpenGL. It has been developed by [Xavier Rebasa Moll][XAVI-Link] and me in our last year on [ESAT][ESAT-Link].
 
 ### Rendering

@@ -8,6 +8,18 @@ imageSRC: https://raw.githubusercontent.com/thelitelboy/thelitelboy.github.io/ma
 tag: post
 ---
 
+### Details
+* C++
+* Windows
+* Unreal Engine 4.16
+* Published on Steam
+* 5 Programmers 4 artists
+* Awarded with Best Narrative (AEV)
+* My Job Here
+  * Camera Programmer
+  * Gameplay Programmer
+  * UI and Menu Programmer
+
 Gamble of Gods is my last big project in [ESAT][ESAT-Link]. With a group of programmers, artists and musicians from [Berklee][BERKLEE-Link] we worked on one of our biggest projects till then for a year, and we were able to publish the game on [Steam][STEAM-Link] as a free to play. Developed in Unreal Engine 4.16
 
 <center>

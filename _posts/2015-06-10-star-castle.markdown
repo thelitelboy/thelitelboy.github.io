@@ -8,6 +8,11 @@ imageSRC : https://raw.githubusercontent.com/thelitelboy/thelitelboy.github.io/m
 tag: post
 ---
 
+### Details
+* C++
+* Windows
+* From Scratch
+
 My first "Big" application programmed in C. An updated clone of the 1980 videogame, Star Castle. ([Wikipedia][SC-Wikipedia], [Youtube][SC-Youtube]). Although it has some error that another, I can not be but proud of my first video game :D
 
 I have to say that the game is in Spanish because we had to do the project in that language, sorry for the inconvenience.
