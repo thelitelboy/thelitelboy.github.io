@@ -4,7 +4,7 @@ title:  "DX11 Animations"
 date:   2018-11-17 18:29:09 +0000
 categories: 
 description: Animation System using DX11 rendering
-imageSRC: https://raw.githubusercontent.com/thelitelboy/thelitelboy.github.io/master/_assets/dx11animation.png
+imageSRC: /data/dx11animation.png
 tag: post
 ---
 
@@ -47,6 +47,6 @@ One of the main problems once the animation system is complete is the informatio
 
 Anyway, the animation processing is quite heavy to process so once many robots are using it the framerate falls. It could be more efficient if we save most of the Key Frames so we only have to read, not to calculate anything. But also this would have an enormous cost of memory.
 
-[DX11-DX11Animation]: https://raw.githubusercontent.com/thelitelboy/thelitelboy.github.io/master/_assets/dx11animation.png
-[DX11-Node]: https://raw.githubusercontent.com/thelitelboy/thelitelboy.github.io/master/_assets/NodeDX11.png
-[DX11-Animation]: https://raw.githubusercontent.com/thelitelboy/thelitelboy.github.io/master/_assets/animation.png
+[DX11-DX11Animation]: /data/dx11animation.png
+[DX11-Node]: /data/NodeDX11.png
+[DX11-Animation]: /data/animation.png

@@ -4,7 +4,7 @@ title:  "Low Level Lens"
 date:   2018-05-27 18:29:09 +0000
 categories: 
 description: Low level project focused on optimization
-imageSRC: https://raw.githubusercontent.com/thelitelboy/thelitelboy.github.io/master/_assets/Lens.png
+imageSRC: /data/Lens.png
 tag: post
 ---
 
@@ -21,4 +21,4 @@ Tested on a Raspberry Pi 3 model b.
 
 ![LowLevelLens-Image][LLL-Image]
 
-[LLL-Image]: https://raw.githubusercontent.com/thelitelboy/thelitelboy.github.io/master/_assets/Lens.png
+[LLL-Image]: /data/Lens.png

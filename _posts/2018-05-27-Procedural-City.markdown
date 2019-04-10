@@ -4,7 +4,7 @@ title:  "Procedural City"
 date:   2018-05-27 18:29:09 +0000
 categories: 
 description: First Approach to OpenGL
-imageSRC: https://raw.githubusercontent.com/thelitelboy/thelitelboy.github.io/master/_assets/Procedural-City.png
+imageSRC: /data/Procedural-City.png
 tag: post
 ---
 
@@ -18,4 +18,4 @@ This is my first approach to OpenGL, the exercise was to generate a "procedural 
 ![Procedural City Image][PC-ProceduralCity]
 
 
-[PC-ProceduralCity]: https://raw.githubusercontent.com/thelitelboy/thelitelboy.github.io/master/_assets/Procedural-City.png "Procedural City"
+[PC-ProceduralCity]: /data/Procedural-City.png "Procedural City"

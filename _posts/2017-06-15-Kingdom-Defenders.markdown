@@ -4,7 +4,7 @@ title:  "Kingdom Defenders"
 date:   2017-06-15 18:29:09 +0000
 categories:
 description: A tower defense style game made in Unity
-imageSRC: https://raw.githubusercontent.com/thelitelboy/thelitelboy.github.io/master/_assets/tower-defenders-game.png
+imageSRC: /data/tower-defenders-game.png
 tag: post
 ---
 
@@ -21,9 +21,8 @@ Here I investigated the concept of procedural generation generating different bi
 
 The gameplay is quite simple, you build towers to defend the king tower (with a huge crown) and mineshafts and sawmills to get resources. Meanwhile, you will be attacked by jumping slimes. 
 
-[**TRAILER HERE :D**][KD-Youtube]
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gf3ml1-neOk" frameborder="0" margin-left="auto" margin-right="auto" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
 
-![Game-IMG][KD-Game]
-
-[KD-Game]: https://raw.githubusercontent.com/thelitelboy/thelitelboy.github.io/master/_assets/tower-defenders-game.png
-[KD-Youtube]: https://www.youtube.com/watch?v=gf3ml1-neOk
+[KD-Game]: /data/tower-defenders-game.png

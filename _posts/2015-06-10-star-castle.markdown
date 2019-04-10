@@ -4,7 +4,7 @@ title:  "Star Castle"
 date:   2015-06-10 18:29:09 +0000
 categories: 
 description: A star castle game made in C
-imageSRC : https://raw.githubusercontent.com/thelitelboy/thelitelboy.github.io/master/_assets/Star-Castle-Title.png
+imageSRC : /data/Star-Castle-Title.png
 tag: post
 ---
 
@@ -27,6 +27,6 @@ Download [**Here**][SC-Download] ;) One advice, If you want to play it I would r
 [SC-Youtube]: https://www.youtube.com/watch?v=8HHRCA6CS8k
 [SC-Download]: https://github.com/thelitelboy/StarCastle
 
-[SC-TitleImage]: https://raw.githubusercontent.com/thelitelboy/thelitelboy.github.io/master/_assets/Star-Castle-Title.png "Title Page"
+[SC-TitleImage]: /data/Star-Castle-Title.png "Title Page"
 
-[SC-GameImage]: https://raw.githubusercontent.com/thelitelboy/thelitelboy.github.io/master/_assets/Star-Castle-Game.png "Game"
+[SC-GameImage]: /data/Star-Castle-Game.png "Game"

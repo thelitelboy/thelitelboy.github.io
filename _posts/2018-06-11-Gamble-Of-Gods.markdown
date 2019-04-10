@@ -4,7 +4,7 @@ title:  "Gamble Of Gods"
 date:   2018-06-11 18:29:09 +0000
 categories: 
 description: My first big game published on Steam
-imageSRC: https://raw.githubusercontent.com/thelitelboy/thelitelboy.github.io/master/_assets/GOG.png
+imageSRC: /data/GOG.png
 tag: post
 ---
 

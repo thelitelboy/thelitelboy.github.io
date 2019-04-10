@@ -4,7 +4,7 @@ title:  "First 3D Engine"
 date:   2018-06-17 18:29:09 +0000
 categories: 
 description: A 3D game engine using C++ and OpenGL
-imageSRC: https://raw.githubusercontent.com/thelitelboy/thelitelboy.github.io/master/_assets/3DEngine-Shadows.png
+imageSRC: /data/3DEngine-Shadows.png
 tag: post
 ---
 
@@ -80,13 +80,13 @@ A physics library. Really interesting how it works with a private "world" where 
 
 [ESAT-Link]: http://www.esat.es
 [XAVI-Link]: https://www.linkedin.com/in/xavier-rebasa-moll-b5723715b/
-[PE-ViewPort]: https://raw.githubusercontent.com/thelitelboy/thelitelboy.github.io/master/_assets/3DEngine-Viewport.png
-[PE-Shadows]: https://raw.githubusercontent.com/thelitelboy/thelitelboy.github.io/master/_assets/3DEngine-Shadows.png
+[PE-ViewPort]: /data/3DEngine-Viewport.png
+[PE-Shadows]: /data/3DEngine-Shadows.png
 
-[PE-PBR]: https://raw.githubusercontent.com/thelitelboy/thelitelboy.github.io/master//_assets/pbr.png
-[PE-Material]: https://raw.githubusercontent.com/thelitelboy/thelitelboy.github.io/master/_assets/Material.png
+[PE-PBR]: /data/pbr.png
+[PE-Material]: /data/Material.png
 
-[PE-ImGui]: https://raw.githubusercontent.com/thelitelboy/thelitelboy.github.io/master/_assets/ImGui.png
+[PE-ImGui]: /data/ImGui.png
 [PE-ImGui-Github]: http://www.github.com/ocornut/imgui
 [PE-Bullet-Github]: https://github.com/bulletphysics/bullet3
 
