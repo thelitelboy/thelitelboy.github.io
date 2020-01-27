@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "Street Rumble"
+date:   2019-05-01
+categories: 
+description: A Platform Shooter developed for PlayStation and PC
+imageSRC: /data/StreetRumble.png
+tag: post
+---
+
+### Details
+
+* Unreal Engine 4.19
+* 5 Programmers 3 artists
+* Local Multiplayer 2 to 4 players
+* My Job Here
+  * Weapon / Bullet System
+  * Level Design
+
+Street Rumble is a project we programmed while Studying in Sheffield Hallam University. The task was to create a funny videogame using Unreal Engine 4.19. We decided to create a platform shooter videogame with local multiplayer, basically inspired in Duck Game and Smash Bros.
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Mdnihy-wisg" frameborder="0" margin-left="auto" margin-right="auto" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
+The game is uploaded into [ItchIo][ITCHIO-Link], Players can move really fast on the map and you win if you are the last survivor. Lots of weapons are available to kill the other players, guns, bazookas, grenades, hammers, black-holes... you can even use the corpses of your friends as "hammers" and throwing weapons :D. If you dont have a weapon you can jump over your friends to force them to drop their weapons so you can try to steal them.
+
+The game was programmed in 4 months in colaboration with other student from Sheffield Hallam University. The target platform was PlayStation 4 but we builded it so it could be played also in PC. 
+
+## My work
+
+My main work in this project was to develop all the weapon/bullet system, and I am really happy with the final result. The system was programmed thinking about fire weapons such as guns, gatlings, shotguns... but we realised it was really easy (just a couple functions) to program also grenades or hammers for example, so we created lasers, black holes and some weird weapons such as the ragdolls of dead players.
+
+[ITCHIO-Link]: https://litelboy.itch.io/streetrumble

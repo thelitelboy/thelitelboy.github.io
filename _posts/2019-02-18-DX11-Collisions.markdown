@@ -4,7 +4,7 @@ title:  "DX11 Collisions"
 date:   2019-02-18 18:29:09 +0000
 categories: 
 description: Collision demo using DX11 framework
-imageSRC: /data/dx11animation.png
+imageSRC: /data/dx11collision.png
 tag: post
 ---
 
