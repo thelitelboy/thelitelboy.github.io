@@ -12,7 +12,7 @@ I’m a young programmer desiring to learn more about the video game programming
 
 I am looking forward to work in the video games industry, to continue learning from people with experience and passion for video games.
 
-I like participating in Game Jams, I think it’s a great way to learn new things as you are experimenting. My favourite type of games is those with a huge world where you can spend hours and hours doing whatever you want, following a story or not, for example, Minecraft, Monster Hunter, The Elder Scrolls… But I am also a big fan of games with an interesting story to tell as Portal, Bioshock or Dishonored.
+I like participating in Game Jams, I think it’s a great way to learn new things as you are experimenting. My favourite type of games is those with a huge world where you can spend hours and hours doing whatever you want, following a story or not, for example, Monster Hunter, The Elder Scrolls… But I am also a big fan of games with an interesting story to tell as Portal or Bioshock .
 
 ## **Aptitudes**
 
@@ -39,6 +39,7 @@ I like participating in Game Jams, I think it’s a great way to learn new thing
 ### Source Controls
 * Git
 * Perforce
+* Tortoise SVN
 
 ### Graphical API
 * OPENGL 3.X
@@ -63,6 +64,10 @@ I like participating in Game Jams, I think it’s a great way to learn new thing
   * Valencia, Spain
   * BTEc Level 5 HND in Computing And Systems Development
   * Graduated: 2018
+
+## **Experience**
+* **Bulkhead Interactive**
+  * Junior Gameplay Programmer 06/2019 - Present
 
 ## **Languages**
 * English: C1-B2 / IELTS 6.5
@@ -91,7 +96,6 @@ Programmer of Gamble of Gods, a free to play Video Game published on [**Steam**]
   </div>
   <div style="display: inline-block; vertical-align: top;">
     <ul>
-      <li>Minecraft</li>
       <li>Magicka</li>
       <li>Elite Dangerous</li>
       <li>Binding of Isaac</li>
@@ -107,14 +111,13 @@ Programmer of Gamble of Gods, a free to play Video Game published on [**Steam**]
       <li>Rock</li>
       <li>Metal</li>
       <li>Punk</li>
-      <li>Games OST</li>
     </ul>
   </div>
   <div style="display: inline-block;vertical-align: top;">
     <ul>
       <li>Celtic Punk/Rock</li>
-      <li>Oi!</li>
       <li>Ska</li>
+      <li>Games OST</li>
     </ul>
   </div>
 </div>
