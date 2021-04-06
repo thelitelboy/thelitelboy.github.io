@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Bulkhead Int."
+date: 2019-06-10
+categories:
+description: Junior Gameplay Programmer
+imageSRC: /data/bh.png
+---
+
+### Details
+
+I started to work on Bulkhead Interactive on June 2019 as a Gameplay Programmer for their game [Battalion 1944][Battalion-link] for a few months, then I worked on the console version of the same game and right now I´m working in [PROMOD][Promod-link]. 
+
+Learning about gameplay programming and working with the design team to create a great prototype for PROMOD.
+
+![BH][BH-Link]
+
+
+[Battalion-link]: https://twitter.com/PlayBattalion
+[Promod-link]: https://twitter.com/PlayPromod
+[BH-link]: /data/bh.png
