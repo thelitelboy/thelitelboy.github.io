@@ -25,7 +25,7 @@ One of the first things I wanted to play with was Boids, a kind of AI used to si
 * **Alignment:** Look towards the average heading of other bodies
 * **Cohesion:** Try to stay as close to the center of mass of nearby bodies as possible.
 
-Also, I experimented with compute shaders for the first time to see how many bids could I handle. 
+Also, I experimented with compute shaders for the first time to see how many boids could I handle. 
 
 <blockquote class="twitter-tweet"><p lang="und" dir="ltr"><a href="https://t.co/A6RUI7VGbI">pic.twitter.com/A6RUI7VGbI</a></p>&mdash; Imanol Saenz (@The_LitelBoy) <a href="https://twitter.com/The_LitelBoy/status/1231213738780495872?ref_src=twsrc%5Etfw">February 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
