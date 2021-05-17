@@ -8,11 +8,9 @@ tag: resume
 <h3><a href="../documents/Resume.pdf" download="">PDF</a> -
 <a href="../documents/Resume.doc" download="">DOC</a></h3>
 
-I’m a young programmer desiring to learn more about the gampelay programming world and to improve my skills. Experienced using C++, Unity and Unreal.
+I’m a young programmer desiring to learn more about the gampelay programming world and to improve my skills. Experienced using C++, Unity and Unreal. Enthusiast of game design and gameplay programming.
 
-I am looking forward to work in the video games industry, to continue learning from people with experience and passion for video games, so I can learn and create my own games in the future.
-
-I like participating in Game Jams, I think it’s a great way to learn new things as you are experimenting. My favourite type of games is those with a huge world where you can spend hours and hours doing whatever you want, following a story or not, for example, Monster Hunter, The Elder Scrolls… But I am also a big fan of games with an interesting story to tell as Portal or Bioshock .
+Working in the video game industry on Bulkhead since 2019, worked on [Battalion 1944][Battalion-Link] and more recently on [PlayPromod][Promod-Link].
 
 ## **Aptitudes**
 
@@ -61,12 +59,10 @@ I like participating in Game Jams, I think it’s a great way to learn new thing
 * Spanish: Native Level
 * Euskara: Native Level (EGA titulation)
 
-## Awards
+## **Personal Games**
 
-Programmer of Gamble of Gods, a free to play Video Game published on [**Steam**][GOG-Steam]. Awarded by Student Game Contest. Spanish Students Videogames association. [AEV][SGC-AEV]
-
-* Best Narrative - Student Game Contest 2018
-
+* Gamble of Gods (UE4). A free to play Video Game published on [**Steam**][GOG-Steam]
+* Street Rumble (UE4). Game programmed for ps4 and finally published on [**Itchio**][ITCHIO-Link]
 
 ## **Interests**
 
@@ -81,3 +77,6 @@ Programmer of Gamble of Gods, a free to play Video Game published on [**Steam**]
 
 [GOG-Steam]: https://store.steampowered.com/app/912730/Gamble_of_Gods/
 [SGC-AEV]: http://studentgamecontest.aev.org.es/
+[ITCHIO-Link]: https://litelboy.itch.io/streetrumble
+[Battalion-Link]: https://twitter.com/PlayBattalion
+[Promod-Link]: https://twitter.com/PlayPromod
