@@ -8,9 +8,9 @@ tag: resume
 <h3><a href="../documents/Resume.pdf" download="">PDF</a> -
 <a href="../documents/Resume.doc" download="">DOC</a></h3>
 
-I’m a young programmer desiring to learn more about the gampelay programming world and to improve my skills. Experienced using C++, Unity and Unreal. Enthusiast of game design and gameplay programming.
+I’m a programmer desiring to learn more about the gampelay programming world and to improve my skills. Experienced using C++, Unity and Unreal. Enthusiast of game design and gameplay programming.
 
-Working in the video game industry on Bulkhead since 2019, worked on [Battalion 1944][Battalion-Link] and more recently on [PlayPromod][Promod-Link].
+Working in the video game industry on Bulkhead since 2019, worked on [Battalion 1944][Battalion-Link] and on [PlayPromod][Promod-Link]. Also worked at Creative Assembly on [Total War: Warhammer III][Warhammer-Link] and in an unanounced project.
 
 ## **Aptitudes**
 
@@ -19,8 +19,12 @@ Working in the video game industry on Bulkhead since 2019, worked on [Battalion 
 <div style="display: inline-block;">
   <div style="display: inline-block;">
     <ul>
-      <li>C / C++</li>
+      <li>C</li>
+      <li>C++</li>
       <li>C#</li>
+      <li>Python</li>
+      <li>Lua</li>
+      <li>Blueprints</li>
     </ul>
   </div>
 </div>
@@ -32,10 +36,12 @@ Working in the video game industry on Bulkhead since 2019, worked on [Battalion 
 
 ### Graphical API
 * OPENGL 3.X
+* DirectX11
 
-### Commercial Engines
+### Game Engines
 * Unity
 * Unreal Engine 4
+* Propietary Engines
 
 ## **Education**
 
@@ -57,7 +63,7 @@ Working in the video game industry on Bulkhead since 2019, worked on [Battalion 
 ## **Languages**
 * English: C1-B2 / IELTS 6.5
 * Spanish: Native Level
-* Euskara: Native Level (EGA titulation)
+* Euskara: Native Level
 
 ## **Personal Games**
 
@@ -80,3 +86,4 @@ Working in the video game industry on Bulkhead since 2019, worked on [Battalion 
 [ITCHIO-Link]: https://litelboy.itch.io/streetrumble
 [Battalion-Link]: https://twitter.com/PlayBattalion
 [Promod-Link]: https://twitter.com/PlayPromod
+[Warhammer-Link]: https://store.steampowered.com/app/1142710/Total_War_WARHAMMER_III/

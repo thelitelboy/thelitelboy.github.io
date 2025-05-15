@@ -13,7 +13,7 @@ I am looking forward to work in the video games industry, to continue learning f
 I have programmed many games in many groups and I have also programmed a game engine. I also have a published game on steam as a free to play which won a best narrative award at Student Game Contest 2018. 
 
 ## My Job
-I have not been so much time in this industry to have many works but I am proud of my little achievements. Currently Working at Bulkhead Interactive.
+I have developed multiple personal proyects wich I'm quite fond of. And also multiple professional projects both in Bulkhead Int. and Creative Assembly.
 
 <ul>
  {% for post in site.posts %}
@@ -26,11 +26,6 @@ I have not been so much time in this industry to have many works but I am proud 
 I really like optimization, maths and physics. I have practised in Graphics Programming, first with the Procedural City, my first attempts with OpenGL, and later with My First 3D Engine. I have also researched and experimented with physics programming in my own engine. 
 
 Two of my games are published, [Gamble Of Gods][GOG-Link] on Steam and [Street Rumble][SR-Link] on Itchio, both of them can be dowloaded and played.
-
-
-## Currently Working At
-
-Currently, I am working at Bulkhead Interactive as a Junior Gameplay Programmer, working for [PROMOD][CW-Link].
 
 
 [GOG-Link]: https://thelitelboy.github.io/2018/06/11/Gamble-Of-Gods.html
